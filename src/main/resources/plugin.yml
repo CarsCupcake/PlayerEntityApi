@@ -1,0 +1,3 @@
+name: PlayerEntityAPI
+version: '${project.version}'
+main: me.carscupcake.playerentityapi.Main
